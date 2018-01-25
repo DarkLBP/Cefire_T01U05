@@ -1,0 +1,1 @@
+Muestra la información de PHP
