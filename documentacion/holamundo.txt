@@ -1,1 +1,1 @@
-Muestra Hola Mundo en pantalla
+Muestra Hola Mundo en pantalla utilizando la función "echo"
